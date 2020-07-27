@@ -34,7 +34,7 @@ click on show/hide.
 3. Right click inside index.html and click on OPEN IN BROWSER
 4. Choose the browser where you want to open the javadoc
 
-####``Functianlities``
+####``Functionlities``
 These services can perform following functionality,
 
    1. Employee CRUD operations.
