@@ -27,7 +27,12 @@ click on show/hide.
 8.  springfox-swagger2
 10. springfox-swagger-ui
 
+####``How to open Java Documentation``
 
+1. Open javadoc package
+2.Open index.html file
+3. Right click inside index.html and click on OPEN IN BROWSER
+4. Choose the browser where you want to open the javadoc
 
 ####``Functianlities``
 These services can perform following functionality,
@@ -67,7 +72,10 @@ These services can perform following functionality,
         Api - /leave/{leaveId}
         Description - update the leave of particular id
         Demo json - [
-                          {
+                          
+                          
+                          
+                          
                               {
                                 "appliedDate": "string",
                                 "endDate": "string",
@@ -78,7 +86,7 @@ These services can perform following functionality,
                                 "status": "string",
                                 "updatedDate": "string"
                               }
-                          }
+                          
                      ] 
       
    

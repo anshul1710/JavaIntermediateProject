@@ -20,6 +20,7 @@ import java.util.List;
 @ApiModel
 @RestController
 public class LeaveController {
+
 private static final Logger LOGGER= LogManager.getLogger(AnshulApplication.class);
     @Autowired
     LeaveService leaveService;
